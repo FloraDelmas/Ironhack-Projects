@@ -8,7 +8,7 @@ Please find my projects that I've done during my Data analyst bootcamp in 2019.
 Link to the presentation : 
 https://docs.google.com/presentation/d/1LSwnPqLvMzHkm0A57KBKBWnwg0h0NUVbXnKpVQgVfgs/edit?usp=sharing
 
-### 2nd project : Machine Learning Unsupervised 
+### 2nd project : Machine Learning Supervised 
 - Build a regression model on an employee attrition dataset to know if employee would quit or not their job
 
 Link to presentation : 
